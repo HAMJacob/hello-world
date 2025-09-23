@@ -1,0 +1,4 @@
+# My first Git Repository
+
+- Author: Juliane Jacob
+- date: 2025-09.22 - 2025-09-23
